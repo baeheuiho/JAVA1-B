@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Sample01/Sample01.iml" filepath="$PROJECT_DIR$/Sample01/Sample01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sample02/Sample02.iml" filepath="$PROJECT_DIR$/Sample02/Sample02.iml" />
       <module fileurl="file://$PROJECT_DIR$/week01.iml" filepath="$PROJECT_DIR$/week01.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Sample1.iml" filepath="$PROJECT_DIR$/Sample1.iml" />
+>>>>>>> 9b8a46de74f69c9a4f23abb13d53a272afbf8922
     </modules>
   </component>
 </project>

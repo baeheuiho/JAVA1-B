@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 //TIP 코드를 <b>실행</b>하려면 <shortcut actionId="Run"/>을(를) 누르거나
 // 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
 public class Main {
@@ -11,5 +12,10 @@ public class Main {
             // 언제든 <shortcut actionId="ToggleLineBreakpoint"/>을(를) 눌러 중단점을 더 추가할 수 있습니다.
             System.out.println("i = " + i);
         }
+=======
+public class Main {
+    public static void main(String[] args) {
+        System.out.printf("Hello and welcome!");
+>>>>>>> 9b8a46de74f69c9a4f23abb13d53a272afbf8922
     }
 }
